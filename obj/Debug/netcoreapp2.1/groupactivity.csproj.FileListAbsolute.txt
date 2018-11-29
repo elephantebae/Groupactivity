@@ -1,0 +1,14 @@
+D:\downloads\CodingDojo\c#\MVC\groupactivity\bin\Debug\netcoreapp2.1\groupactivity.deps.json
+D:\downloads\CodingDojo\c#\MVC\groupactivity\bin\Debug\netcoreapp2.1\groupactivity.runtimeconfig.json
+D:\downloads\CodingDojo\c#\MVC\groupactivity\bin\Debug\netcoreapp2.1\groupactivity.runtimeconfig.dev.json
+D:\downloads\CodingDojo\c#\MVC\groupactivity\bin\Debug\netcoreapp2.1\groupactivity.dll
+D:\downloads\CodingDojo\c#\MVC\groupactivity\bin\Debug\netcoreapp2.1\groupactivity.pdb
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.csprojAssemblyReference.cache
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.csproj.CoreCompileInputs.cache
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.RazorAssemblyInfo.cache
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.RazorAssemblyInfo.cs
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.AssemblyInfoInputs.cache
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.AssemblyInfo.cs
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.RazorTargetAssemblyInfo.cache
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.dll
+D:\downloads\CodingDojo\c#\MVC\groupactivity\obj\Debug\netcoreapp2.1\groupactivity.pdb
